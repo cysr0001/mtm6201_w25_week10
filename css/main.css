@@ -63,3 +63,6 @@ form button{
     background-color: var(--bs-primary);
     padding: 1em;
 }
+.border-bottom{
+    background-color: var(--bs-primary);
+}
